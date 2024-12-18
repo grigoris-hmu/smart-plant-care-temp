@@ -1,0 +1,125 @@
+# Greek translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-12-18 15:58+0200\n"
+"PO-Revision-Date: 2024-12-18 15:58+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: el\n"
+"Language-Team: el <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: SmartPlantCare/blueprints/multilingual/routes.py:71
+msgid "Beautiful day in Portland!"
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/routes.py:75
+msgid "The Avengers movie was so cool!"
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/routes.py:78
+msgid "Home"
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/routes.py:124
+msgid "The user has been logged out."
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/routes.py:139
+msgid "The Cake is a Lie"
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/404.html:10
+msgid "The page you requested could not be found!"
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/415.html:10
+msgid "The image type you provided is not supported by our server!"
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/500.html:10
+msgid "Internal Server Error!"
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/cake.html:4
+msgid "Hi, User!"
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/cake.html:6
+msgid "I promise you that there will be "
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/cake.html:6
+msgid "cake"
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/cake.html:6
+msgid " at the end of this article, so keep on reading!"
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/cake.html:7
+msgid "text to be translated"
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/cake.html:7
+msgid " today is a beautiful day"
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/cake.html:7
+msgid " my name is nikos"
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/index.html:9
+msgid "Crops"
+msgstr "Καλλιέργειες"
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/index.html:12
+msgid "Sort by Name"
+msgstr "Ταξινόμηση βάσει Ονόματος"
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/index.html:13
+msgid "Sort by Location"
+msgstr "Ταξινόμηση βάσει Τοποθεσίας"
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/index.html:74
+msgid "No crops found"
+msgstr "Δε βρέθηκαν καλλιέργειες"
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/login.html:4
+#: SmartPlantCare/templates/navbar.html:37
+msgid "Login"
+msgstr "Είσοδος"
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/login.html:11
+msgid "Login Form"
+msgstr "Φόρμα Εισόδου"
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/login.html:19
+msgid "Please enter your email."
+msgstr "Παρακαλώ δώστε το email σας."
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/login.html:32
+msgid "Please enter your password."
+msgstr "Παρακαλώ δώστε τον κωδικό πρόσβασής σας."
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/old-index.html:4
+msgid "Hi, "
+msgstr ""
+
+#: SmartPlantCare/blueprints/multilingual/templates/multilingual/old-index.html:6
+msgid " says: "
+msgstr ""
+
+#: SmartPlantCare/templates/navbar.html:36
+msgid "SignUp"
+msgstr "Εγγραφή"
+
